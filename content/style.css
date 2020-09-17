@@ -1,0 +1,26 @@
+/* This CSS file allows to choose the style of my webpage and apply it easily onto different pages */
+
+body
+{
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #444;
+    padding: 010px
+}
+
+/* This first section will define the style of the body of my page */
+/* The margin is set to 40% vertically and will be set automatically horizontally */
+/* The max-width sets the maximum size of elements */
+/* The line-height sets the size of the lines ; here it is set to 1.6 times the font size */
+/* The font-size is set to 18 pixels */
+/* The color can be defined in words or RGB/hexadecimal code */
+/* The padding defines the filling distance of the elements */
+
+h1,h2,h3
+{
+	line-height: 1.2
+}
+
+/* This sections defines the style fo the head titles */
